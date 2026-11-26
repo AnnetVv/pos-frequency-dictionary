@@ -20,7 +20,7 @@
 pos-frequency-dictionary/
 ├── frequency_dict.py     # програма
 ├── requirements.txt
-└── results/              # графік і скріншоти бази даних
+└── results/              # графік і база даних
 ```
 
 ## Структура бази даних
